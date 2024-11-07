@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="Télé-Québec.HDTV.(CIVM).(TQCH).ca" tvg-name="Télé-Québec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="Education",Télé-Québec (720p)
-https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/a534b116455f49f4a82ddc9805de04a3/us-west-2/6101674910001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca" tvg-name="CBC Montréal" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="General",CBC Montréal (CBMT-DT) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca" tvg-name="Ici Radio-Canada Télé Québec" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="General",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
